@@ -30,4 +30,5 @@
   > changes the file in Staging Area back to its state present in the History(added with latest commit command...HEAD refers to the latest commit)
 ### ``` .gitignore ```
   > a directory that contains the files that you dont want git to track
-Source/Reference: https://youtu.be/uR6G2v_WsRA
+  
+  Source/Reference: https://youtu.be/uR6G2v_WsRA
