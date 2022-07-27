@@ -1,5 +1,7 @@
 # Git-Commands
+
 ## Working Tree->Staging Area->History
+
 ### ``` git init ```
   > to start git
 ### ``` git status ``` 
